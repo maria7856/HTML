@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    font-family: Georgia, serif;
+
+}
+body {
+    background-color: antiquewhite;
+    padding: 40px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section {
+    background-color: aliceblue;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+}
+
+p {
+    color: blue;
+}
+
+#unique-box {
+    background-color: rgb(207, 207, 33);
+}
